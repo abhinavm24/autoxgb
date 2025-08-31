@@ -13,7 +13,7 @@ INSTALL_REQUIRES = [
     "pydantic==1.8.2",
     "joblib==1.1.0",
     "pandas==1.3.4",
-    "scikit-learn==1.0.1",
+    "scikit-learn==1.5.0",
     "uvicorn==0.15.0",
     "xgboost==1.5.0",
 ]
